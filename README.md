@@ -1,2 +1,2 @@
-# Pokemon-Blooming-Bease
+# Pokemon-Blooming-Beast
 My Pokémon fan game
