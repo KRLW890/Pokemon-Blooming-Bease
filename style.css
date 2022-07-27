@@ -1,0 +1,20 @@
+
+body {
+    background-color: #2c313e;
+    margin: 0;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 1.1em;
+}
+
+#all {
+    width: 60%;
+    margin: auto;
+    margin-top: 0%;
+    background-color: #98505c;
+}
+
+#main {
+    margin: 0%;
+    padding: 1% 15% 3% 15%;
+    color: #fde2e9;
+}
